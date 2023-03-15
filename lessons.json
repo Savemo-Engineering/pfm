@@ -1,42 +1,42 @@
 [
     {
         "title": "The Absolute Basics",
-        "route": "/pfm/post/the-absolute-basics/compounding",
+        "route": "/post/the-absolute-basics/compounding",
         "img": "/pfm/assets/basics/finance-stability 1.svg",
         "description": "Sometimes you've got to walk before you run.\nUnderstanding compounding and inflation gives you an edge over othes.",
         "pages": [
-            {"title": "Compounding", "route": "/pfm/post/the-absolute-basics/compounding", "quiz": false},
-            {"title": "Inflation", "route": "/pfm/post/the-absolute-basics/inflation", "quiz": false},
-            {"title": "Emergency Fund", "route": "/pfm/post/the-absolute-basics/emergency-fund", "quiz": false},
-            {"title": "Budgeting", "route": "/pfm/post/the-absolute-basics/budgeting", "quiz": false}
+            {"title": "Compounding", "route": "/post/the-absolute-basics/compounding", "quiz": false},
+            {"title": "Inflation", "route": "/post/the-absolute-basics/inflation", "quiz": false},
+            {"title": "Emergency Fund", "route": "/post/the-absolute-basics/emergency-fund", "quiz": false},
+            {"title": "Budgeting", "route": "/post/the-absolute-basics/budgeting", "quiz": false}
         ]
     },
     {
         "title": "The Savings Dilemma",
-        "route": "/pfm/post/the-savings-dilemma/savings-account",
+        "route": "/post/the-savings-dilemma/savings-account",
         "img": "/pfm/assets/savings/financial-struggle 1.svg",
         "description": "How much do I save? Where do I save? And other questions answered here:",
         "pages": [
-            {"title": "Savings Account", "route": "/pfm/post/the-savings-dilemma/savings-account", "quiz": true},
-            {"title": "Fixed Deposits", "route": "/pfm/post/the-savings-dilemma/fixed-deposits", "quiz": true},
-            {"title": "So where do I save my money?", "route": "/pfm/post/the-savings-dilemma/so-where-do-i-save-my-money", "quiz": false}
+            {"title": "Savings Account", "route": "/post/the-savings-dilemma/savings-account", "quiz": true},
+            {"title": "Fixed Deposits", "route": "/post/the-savings-dilemma/fixed-deposits", "quiz": true},
+            {"title": "So where do I save my money?", "route": "/post/the-savings-dilemma/so-where-do-i-save-my-money", "quiz": false}
         ]
     },
     {
         "title": "WTF are Mutual Funds",
-        "route": "/pfm/post/wtf-are-mutual-funds/the-components",
+        "route": "/post/wtf-are-mutual-funds/the-components",
         "img": "/pfm/assets/mutual-funds/abstract-easy-money 1.svg",
         "description": "What are mutual funds? Are they really the “sahi” way of investing money? In this lesson, you’ll get to know the good, the bad and the ugly of mutual funds. Here’s what we’ll be covering:",
         "pages": [
-            {"title": "What happens to my money?", "route": "/pfm/post/wtf-are-mutual-funds/what-happens-to-my-money", "quiz": false},
-            {"title": "Decoding Mutual Funds", "route": "/pfm/post/wtf-are-mutual-funds/decoding-mutual-funds", "quiz": true},
-            {"title": "Debt Funds Pt.1", "route": "/pfm/post/wtf-are-mutual-funds/debt-funds-1", "quiz": false},
-            {"title": "Debt Funds Pt.2", "route": "/pfm/post/wtf-are-mutual-funds/debt-funds-2", "quiz": false},
-            {"title": "Evaluating Debt Funds", "route": "/pfm/post/wtf-are-mutual-funds/evaluating-debt-funds", "quiz": false},
-            {"title": "Types of Debt Funds", "route": "/pfm/post/wtf-are-mutual-funds/types-of-debt-funds", "quiz": true},
-            {"title": "Equity Funds Pt.1", "route": "/pfm/post/wtf-are-mutual-funds/equity-funds-1", "quiz": false},
-            {"title": "Equity Funds Pt.2", "route": "/pfm/post/wtf-are-mutual-funds/equity-funds-2", "quiz": false},
-            {"title": "Evaluating Equity Funds", "route": "/pfm/post/wtf-are-mutual-funds/evaluating-equity-funds", "quiz": true}
+            {"title": "What happens to my money?", "route": "/post/wtf-are-mutual-funds/what-happens-to-my-money", "quiz": false},
+            {"title": "Decoding Mutual Funds", "route": "/post/wtf-are-mutual-funds/decoding-mutual-funds", "quiz": true},
+            {"title": "Debt Funds Pt.1", "route": "/post/wtf-are-mutual-funds/debt-funds-1", "quiz": false},
+            {"title": "Debt Funds Pt.2", "route": "/post/wtf-are-mutual-funds/debt-funds-2", "quiz": false},
+            {"title": "Evaluating Debt Funds", "route": "/post/wtf-are-mutual-funds/evaluating-debt-funds", "quiz": false},
+            {"title": "Types of Debt Funds", "route": "/post/wtf-are-mutual-funds/types-of-debt-funds", "quiz": true},
+            {"title": "Equity Funds Pt.1", "route": "/post/wtf-are-mutual-funds/equity-funds-1", "quiz": false},
+            {"title": "Equity Funds Pt.2", "route": "/post/wtf-are-mutual-funds/equity-funds-2", "quiz": false},
+            {"title": "Evaluating Equity Funds", "route": "/post/wtf-are-mutual-funds/evaluating-equity-funds", "quiz": true}
         ]
     }
 ]

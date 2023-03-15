@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pfm/static/css/main.fc66b92f.chunk.css",
-    "main.js": "/pfm/static/js/main.76907946.chunk.js",
-    "main.js.map": "/pfm/static/js/main.76907946.chunk.js.map",
-    "runtime-main.js": "/pfm/static/js/runtime-main.141ebd62.js",
-    "runtime-main.js.map": "/pfm/static/js/runtime-main.141ebd62.js.map",
-    "static/js/2.cd6392a1.chunk.js": "/pfm/static/js/2.cd6392a1.chunk.js",
-    "static/js/2.cd6392a1.chunk.js.map": "/pfm/static/js/2.cd6392a1.chunk.js.map",
+    "main.js": "/pfm/static/js/main.6a7c6670.chunk.js",
+    "main.js.map": "/pfm/static/js/main.6a7c6670.chunk.js.map",
+    "runtime-main.js": "/pfm/static/js/runtime-main.c5ce53b7.js",
+    "runtime-main.js.map": "/pfm/static/js/runtime-main.c5ce53b7.js.map",
+    "static/js/2.25eb3a90.chunk.js": "/pfm/static/js/2.25eb3a90.chunk.js",
+    "static/js/2.25eb3a90.chunk.js.map": "/pfm/static/js/2.25eb3a90.chunk.js.map",
     "static/css/3.a24703f9.chunk.css": "/pfm/static/css/3.a24703f9.chunk.css",
-    "static/js/3.0a3adbf2.chunk.js": "/pfm/static/js/3.0a3adbf2.chunk.js",
-    "static/js/3.0a3adbf2.chunk.js.map": "/pfm/static/js/3.0a3adbf2.chunk.js.map",
+    "static/js/3.1524f68f.chunk.js": "/pfm/static/js/3.1524f68f.chunk.js",
+    "static/js/3.1524f68f.chunk.js.map": "/pfm/static/js/3.1524f68f.chunk.js.map",
     "static/css/4.9d6892a3.chunk.css": "/pfm/static/css/4.9d6892a3.chunk.css",
     "static/js/4.0c9c0492.chunk.js": "/pfm/static/js/4.0c9c0492.chunk.js",
     "static/js/4.0c9c0492.chunk.js.map": "/pfm/static/js/4.0c9c0492.chunk.js.map",
@@ -31,7 +31,7 @@
     "static/css/6.b6c7bacb.chunk.css.map": "/pfm/static/css/6.b6c7bacb.chunk.css.map",
     "static/css/7.9ac81fbf.chunk.css.map": "/pfm/static/css/7.9ac81fbf.chunk.css.map",
     "static/css/main.fc66b92f.chunk.css.map": "/pfm/static/css/main.fc66b92f.chunk.css.map",
-    "static/js/2.cd6392a1.chunk.js.LICENSE.txt": "/pfm/static/js/2.cd6392a1.chunk.js.LICENSE.txt",
+    "static/js/2.25eb3a90.chunk.js.LICENSE.txt": "/pfm/static/js/2.25eb3a90.chunk.js.LICENSE.txt",
     "static/media/amfi.11c58910.svg": "/pfm/static/media/amfi.11c58910.svg",
     "static/media/android-badge.6398b58e.png": "/pfm/static/media/android-badge.6398b58e.png",
     "static/media/arrow-left-circle.191e0cfe.svg": "/pfm/static/media/arrow-left-circle.191e0cfe.svg",
@@ -86,9 +86,9 @@
     "static/media/upside.656ee3af.svg": "/pfm/static/media/upside.656ee3af.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.141ebd62.js",
-    "static/js/2.cd6392a1.chunk.js",
+    "static/js/runtime-main.c5ce53b7.js",
+    "static/js/2.25eb3a90.chunk.js",
     "static/css/main.fc66b92f.chunk.css",
-    "static/js/main.76907946.chunk.js"
+    "static/js/main.6a7c6670.chunk.js"
   ]
 }
