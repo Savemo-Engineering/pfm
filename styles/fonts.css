@@ -1,0 +1,186 @@
+@font-face {
+    font-family: 'Otama';
+    src: url('/fonts/Otama-ep.otf');
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-style: normal;
+    src: url('/fonts/DM_Sans/DMSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-style: italic;
+    src: url('/fonts/DM_Sans/DMSans-Italic.ttf');
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    font-weight: 900;
+    font-style: normal;
+    src: url('/fonts/DM_Sans/DMSans-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    font-weight: 900;
+    font-style: italic;
+    src: url('/fonts/DM_Sans/DMSans-BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    font-weight: 600;
+    font-style: normal;
+    src: url('/fonts/DM_Sans/DMSans-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'DM Sans';
+    font-weight: 600;
+    font-style: italic;
+    src: url('/fonts/DM_Sans/DMSans-MediumItalic.ttf');
+}
+
+@font-face {
+	font-family: 'ThicccBoi';
+	font-weight: 100;
+	font-style: normal;
+    src: url("/fonts/ThicccBoi/HKGrotesk-Light.otf") format("opentype");
+}
+
+@font-face {
+	font-family: 'ThicccBoi';
+	font-weight: 100;
+	font-style: normal;
+    src: url("/fonts/ThicccBoi/THICCCBOI-Thin.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: 'ThicccBoi';
+	font-weight: 200;
+	font-style: normal;
+    src: url("/fonts/ThicccBoi/THICCCBOI-Light.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: 'ThicccBoi';
+	font-weight: 300;
+	font-style: normal;
+    src: url("/fonts/ThicccBoi/THICCCBOI-Regular.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: 'ThicccBoi';
+	font-weight: 400;
+	font-style: normal;
+    src: url("/fonts/ThicccBoi/THICCCBOI-Medium.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: 'ThicccBoi';
+	font-weight: 500;
+	font-style: normal;
+    src: url("/fonts/ThicccBoi/THICCCBOI-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: 'ThicccBoi';
+	font-weight: 600;
+	font-style: normal;
+    src: url("/fonts/ThicccBoi/THICCCBOI-Bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: 'ThicccBoi';
+	font-weight: 700;
+	font-style: normal;
+    src: url("/fonts/ThicccBoi/THICCCBOI-ExtraBold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: 'ThicccBoi';
+	font-weight: 800;
+	font-style: normal;
+    src: url("/fonts/ThicccBoi/THICCCBOI-Black.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: 'ThicccBoi';
+	font-weight: 900;
+	font-style: normal;
+    src: url("/fonts/ThicccBoi/THICCCBOI-ThicccAF.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: 'HK Grotesk';
+	font-weight: 100;
+	font-style: normal;
+    src: url("/fonts/HKGrotesk/HKGrotesk-Light.otf") format("opentype");
+}
+
+@font-face {
+	font-family: 'HK Grotesk';
+	font-weight: 100;
+	font-style: italic;
+	src: url("/fonts/HKGrotesk/HKGrotesk-LightItalic.otf") format("opentype");
+}
+
+@font-face {
+	font-family: 'HK Grotesk';
+	font-weight: 400;
+	font-style: normal;
+    src: url("/fonts/HKGrotesk/HKGrotesk-Regular.otf") format("opentype");
+}
+
+@font-face {
+	font-family: 'HK Grotesk';
+	font-weight: 400;
+	font-style: italic;
+	src: url("/fonts/HKGrotesk/HKGrotesk-Italic.otf") format("opentype");
+}
+
+@font-face {
+	font-family: 'HK Grotesk';
+	font-weight: 600;
+	font-style: normal;
+	src: url("/fonts/HKGrotesk/HKGrotesk-Medium.otf") format("opentype");
+}
+
+@font-face {
+	font-family: 'HK Grotesk';
+	font-weight: 600;
+	font-style: italic;
+	src: url("/fonts/HKGrotesk/HKGrotesk-MediumItalic.otf") format("opentype");
+}
+
+@font-face {
+	font-family: 'HK Grotesk';
+	font-weight: 700;
+	font-style: normal;
+    src: url("/fonts/HKGrotesk/HKGrotesk-SemiBold.otf") format("opentype");
+}
+
+@font-face {
+	font-family: 'HK Grotesk';
+	font-weight: 700;
+	font-style: italic;
+    src: url("/fonts/HKGrotesk/HKGrotesk-SemiBoldItalic.otf") format("opentype");
+}
+
+@font-face {
+	font-family: 'HK Grotesk';
+	font-weight: 900;
+	font-style: normal;
+    src: url("/fonts/HKGrotesk/HKGrotesk-Bold.otf") format("opentype");
+}
+
+@font-face {
+	font-family: 'HK Grotesk';
+	font-weight: 900;
+	font-style: italic;
+    src: url("/fonts/HKGrotesk/HKGrotesk-BoldItalic.otf") format("opentype");
+}

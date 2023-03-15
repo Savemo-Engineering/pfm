@@ -1,0 +1,19 @@
+:root{
+    --text-color: #FFFFFF;
+
+    --background: #171717;
+    --background-secondary: #282828;
+    
+    --primary-highlight: #FF6534;
+    --secondary-highlight: #FFBA70;
+}
+
+/* @media (prefers-color-scheme: light) {
+    body{
+        margin: 10px;
+    }
+    :root{
+        --background: #FFFFFF;
+        --text-color: #171717;
+    }
+} */
